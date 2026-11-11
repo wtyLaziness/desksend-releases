@@ -1,6 +1,6 @@
 # DeskSend
 
-![DeskSend](desksend.png)
+<img src="desksend.png" width="128" alt="DeskSend">
 
 DeskSend 整合 Windows 键鼠共享和局域网文件传输。将文件拖过屏幕边缘，在副机松开鼠标后自动发送。
 
