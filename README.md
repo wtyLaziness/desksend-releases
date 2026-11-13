@@ -6,6 +6,8 @@ DeskSend 整合 Windows 键鼠共享和局域网文件传输。将文件拖过�
 
 [下载最新完整包](https://github.com/wtyLaziness/desksend-releases/releases/latest)
 
+[源码仓库](https://github.com/wtyLaziness/desksend) · [详细使用指南](https://github.com/wtyLaziness/desksend/blob/main/docs/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md) · [许可证索引](https://github.com/wtyLaziness/desksend/blob/main/LICENSE.md)
+
 解压完整目录后运行 **DeskSend.exe**，两台电脑均使用同版本的完整包，无需单独安装 LocalSend。请勿只复制一个 exe。
 
 “帮助 → 检查 DeskSend 更新”可以检查正式版本、下载完整更新包、校验 SHA-256 并安装重启。便携版更新保留原有配置、证书和配对；安装前会备份待覆盖文件。
