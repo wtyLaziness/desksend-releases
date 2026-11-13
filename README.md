@@ -18,4 +18,4 @@ DeskSend 整合 Windows 键鼠共享和局域网文件传输。将文件拖过�
 
 本仓库仅用于公开版本和更新渠道。每个 Release 均附带完整二进制包、对应版本的构建源码 zip 和 SHA256SUMS.txt；构建提交与逐文件哈希记录在包内 `desksend-build.json` 中。源码包包含修改后的 Deskflow、LocalSend 与构建脚本，不包含开发者本机配置、证书、日志和 Git 历史。
 
-DeskSend 基于 [Deskflow](https://github.com/deskflow/deskflow)（GPL-2.0-only WITH OpenSSL exception）与 [LocalSend](https://github.com/localsend/localsend)（MIT），保留原作者版权与许可文件。图标融合两者的圆环和波纹形象。
+DeskSend 基于 [Deskflow](https://github.com/deskflow/deskflow)（GPL-2.0-only WITH OpenSSL exception）与 [LocalSend](https://github.com/localsend/localsend)（Apache-2.0），保留原作者版权与许可文件。图标融合两者的圆环和波纹形象。
